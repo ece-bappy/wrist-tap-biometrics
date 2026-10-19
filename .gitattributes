@@ -1,0 +1,7 @@
+# The frozen recogniser is verified by SHA-256: never convert its line endings.
+checkpoint_c035/** -text
+# Everything else: normalise to LF in the repository.
+* text=auto eol=lf
+*.npz binary
+*.pdf binary
+*.png binary

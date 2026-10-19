@@ -1,0 +1,12 @@
+# data, raw recordings and generated outputs are not part of the repository
+data/*
+!data/README.md
+dataset/
+2nd session/
+analysis/results/out/
+analysis/figures/*.pdf
+analysis/figures/*.png
+analysis/tables/*.tex
+dataset_collector/capture_dataset/
+__pycache__/
+*.pyc

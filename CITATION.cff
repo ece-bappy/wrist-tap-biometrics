@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: "Who Is Tapping? Wrist-Worn Acousto-Kinematic Biometrics from Thumb–Finger Tap Rhythms"
+authors:
+  - family-names: "Bappy"
+    given-names: "Md. Azizul Hakim"
+    email: "ece.bappy@gmail.com"
+    affiliation: "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology"
+  - family-names: "Mustafa"
+    given-names: "Hossen Asiful"
+    affiliation: "Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology"
+doi: "[ZENODO_CODE_DOI]"
+repository-code: "[GITHUB_URL]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Who Is Tapping? Wrist-Worn Acousto-Kinematic Biometrics from Thumb–Finger Tap Rhythms"
+  authors:
+    - family-names: "Bappy"
+      given-names: "Md. Azizul Hakim"
+    - family-names: "Mustafa"
+      given-names: "Hossen Asiful"
+  journal: "Pattern Recognition"
+  year: "[YEAR]"
